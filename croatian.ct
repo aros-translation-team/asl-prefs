@@ -1,4 +1,4 @@
-## version $VER: Asl.catalog 1.0 (28.06.2022)
+## version $VER: Asl.catalog 2.0 (06.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -15,8 +15,16 @@ Biraè Datoteka
 ; File Requester
 ;
 MSG_SIZE
-Velièina (% of vidljive visine)
-; Size (% of visible height):
+Velièina:
+; Size:
+;
+MSG_SIZE_WIDTH
+©irina (% vidljive ¹irine):
+; Width (% of visible width):
+;
+MSG_SIZE_HEIGHT
+Visina (% vidljive visine):
+; Height (% of visible height):
 ;
 MSG_OK
 U redu

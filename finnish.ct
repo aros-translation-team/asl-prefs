@@ -1,4 +1,4 @@
-## version $VER: Asl.catalog 1.0 (28.06.2022)
+## version $VER: Asl.catalog 2.0 (06.08.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -12,7 +12,13 @@ MSG_FILEREQUESTER
 Tiedostonvalitsija
 ;
 MSG_SIZE
-Koko (% näkyvästä korkeudesta):
+Koko:
+;
+MSG_SIZE_WIDTH
+Leveys (% näkyvästä leveydestä):
+;
+MSG_SIZE_HEIGHT
+Korkeus (% näkyvästä korkeudesta):
 ;
 MSG_OK
 Ok

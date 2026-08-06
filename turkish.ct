@@ -1,73 +1,72 @@
 ## version $VER: Asl.catalog 2.0 (06.08.2026)
-## language magyar
-## codeset 5
-; Authors: Kertai Gábor
+## language türkçe
+## codeset 12
 ;
 MSG_WINDOW_TITLE
-ASL beállítások
+ASL Tercihleri
 ; ASL Preferences
 ;
 MSG_GENERAL
-Általános
+Genel
 ; General
 ;
 MSG_FILEREQUESTER
-Állomány-requester
+Dosya Ýstemi
 ; File Requester
 ;
 MSG_SIZE
-Méret:
+Boyut:
 ; Size:
 ;
 MSG_SIZE_WIDTH
-Szélesség (látható szélesség %-a):
+Geniþlik (görünür geniþliðin %'si):
 ; Width (% of visible width):
 ;
 MSG_SIZE_HEIGHT
-Magasság (látható magasság %-a):
+Yükseklik (görünür yüksekliðin %'si):
 ; Height (% of visible height):
 ;
 MSG_OK
-Rendben
-;  Ok
+Tamam
+; Ok
 ;
 MSG_DRAWERSFIRST
-Fiókok elõre
+Önce çekmeceleri göster
 ; Display drawers first
 ;
 MSG_POSITION
-Pozíció:
+Konum:
 ; Position:
 ;
 MSG_POINTER
-Egérmutató alá
+Fare iþaretçisi
 ; Mouse pointer
 ;
 MSG_CENTERWIN
-Ablakban középre
+Pencerede ortala
 ; Center in window
 ;
 MSG_CENTERSCR
-Képernyõn középre
+Ekranda ortala
 ; Center on screen
 ;
 MSG_TOPLEFTWIN
-Ablakban bal felülre
+Pencerenin sol üstü
 ; Top left of window
 ;
 MSG_TOPLEFTSCR
-Képernyõn bal felülre
+Ekranýn sol üstü
 ; Top left of screen
 ;
 MSG_OFFSET
-\33bTávolság
+\33bKaydýrma
 ; \33bOffset
 ;
 MSG_CANT_OPEN_STREAM
-Can't open IFF stream!
+IFF akýþý açýlamýyor!
 ; Can't open IFF stream!
 ;
 MSG_CANT_ALLOCATE_IFFPTR
-Can't allocate IFF handle!
+IFF iþleyicisi ayrýlamadý!
 ; Can't allocate IFF handle!
 ;

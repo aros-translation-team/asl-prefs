@@ -1,4 +1,4 @@
-## version $VER: Asl.catalog 1.0 (28.06.2022)
+## version $VER: Asl.catalog 2.0 (06.08.2026)
 ## language norsk
 ## codeset 0
 ; Authors: Kim Roar Utsi, Daniel Holmen
@@ -13,7 +13,13 @@ MSG_FILEREQUESTER
 Filforespørsel
 ;
 MSG_SIZE
-Størrelse (% av synlig høyde):
+Størrelse:
+;
+MSG_SIZE_WIDTH
+Bredde (% av synlig bredde):
+;
+MSG_SIZE_HEIGHT
+Høyde (% av synlig høyde):
 ;
 MSG_OK
 Ok
